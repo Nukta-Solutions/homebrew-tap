@@ -1,6 +1,6 @@
 cask "nukta-bangla" do
-  version "1.0.1"
-  sha256 "31eb5e75978b5b70190e446f8e2d8dd03f1521f3119a6ef2565fd7bb968ea840"
+  version "1.0.5"
+  sha256 "41d7f21a16c7905acb8bb156259f2242320172a9ca08689dd2644c36b8d05f47"
 
   url "https://github.com/Nukta-Solutions/nukta-bangla-keyboard/releases/download/v#{version}/NuktaBangla.dmg"
   name "Nukta Bangla"
